@@ -77,7 +77,8 @@ The platform helps manage news content efficiently and improves collaboration be
 
 ### Home Page
 
-![Home Page](https://raw.githubusercontent.com/mohammed-abu-amsha9/Project_News/main/images/Screenshot%202026-05-28%20140921.png)### Dashboard
+![Home Page](https://raw.githubusercontent.com/mohammed-abu-amsha9/Project_News/main/images/Screenshot%202026-05-28%20140921.png)
+### Dashboard
 
 ![Home Page](https://raw.githubusercontent.com/mohammed-abu-amsha9/Project_News/main/images/Screenshot%202026-05-28%20144934.png)
 
