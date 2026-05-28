@@ -77,8 +77,7 @@ The platform helps manage news content efficiently and improves collaboration be
 
 ### Home Page
 
-ضع صورة الصفحة الرئيسية هنا
-
+https://github.com/mohammed-abu-amsha9/Project_News/blob/main/images/Screenshot%202026-05-28%20140921.png?raw=true
 ### Dashboard
 
 ضع صورة لوحة التحكم هنا
